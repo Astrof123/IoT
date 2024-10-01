@@ -1,5 +1,9 @@
 # Светофор
 
+## Видео
+
+[Ссылка на гугл диск](https://drive.google.com/drive/folders/1GvPy7_uF3y5iOjnjDU-bj4fVI-Dl3WUU?usp=sharing)
+
 ## Команды Serial Monitor
 
 Включение автоматического светофора: ```l```
